@@ -6,15 +6,7 @@
 
 <style lang="scss">
 html {
-  font-family:
-    'Source Sans Pro',
-    -apple-system,
-    BlinkMacSystemFont,
-    'Segoe UI',
-    Roboto,
-    'Helvetica Neue',
-    Arial,
-    sans-serif;
+  font-family: "Source Serif Pro", serif;
   font-size: 18px;
   word-spacing: 1px;
   -ms-text-size-adjust: 100%;

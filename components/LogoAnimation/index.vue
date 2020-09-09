@@ -1300,14 +1300,12 @@ svg {
 }
 
 #outerRing {
-  // display: none;
   fill: lightgrey;
   stroke: grey;
   opacity: 0;
   animation: fadeIn 5s ease-in-out 6s forwards;
 }
 #innerRing {
-  // display: none;
   fill: lightgrey;
   stroke: grey;
   opacity: 0;

@@ -16,11 +16,9 @@
 $dur: 2;
 $del: 2;
 $fontSize: 25;
-$shadow: translate(1rem, 2rem);
 
 .titleContainer {
-  font-family: 'Source Serif Pro', serif;
-//   font-style: italic;
+  font-family: "Source Serif Pro", serif;
   font-weight: 600;
   display: flex;
   justify-content: center;
@@ -35,8 +33,7 @@ $shadow: translate(1rem, 2rem);
 }
 
 .subtext {
-  font-family: 'Source Serif Pro', serif;
-//   font-style: italic;
+  font-family: "Source Serif Pro", serif;
   font-weight: 400;
   font-size: 0.9rem;
   letter-spacing: 8px;

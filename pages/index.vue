@@ -1,12 +1,12 @@
 <template>
-  <div class="container">
+  <div class="indexContainer">
     <LogoAnimation />
     <TitleAnimation />
   </div>
 </template>
 
 <style lang="scss">
-.container {
+.indexContainer {
   margin: 0 auto;
   min-height: 100vh;
   display: flex;
