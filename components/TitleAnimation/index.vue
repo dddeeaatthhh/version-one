@@ -44,7 +44,7 @@ $fontSize: 25;
 
 .flip {
   animation: fadeIn $dur + 1 + s ease-in-out,
-    flip $dur + s ease-in-out $dur + s both;
+    flip $dur + s ease-in-out $dur + s forwards;
   transform: rotateX(180deg);
 }
 
@@ -72,8 +72,7 @@ $fontSize: 25;
     transform: rotateX(0) rotateY(0deg);
   }
   100% {
-    transform: rotateX(180deg) rotateY(180deg);
-    // translate(-.2rem, .05rem)
+    transform: rotateX(180deg) rotateY(180deg) translate(-.2rem, .05rem);
   }
 }
 </style>
